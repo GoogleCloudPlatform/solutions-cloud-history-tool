@@ -19,7 +19,7 @@ can be captured as time series data and queried using BigQuery. [Sample
 BigQuery queries](#cookbook) are provided for you to get started on the
 analysis. The workflow is best illustrated with the following diagram:
 
-![Cloud History Architecture](/app/static/img/help/cloud_history_arch.png)
+![Cloud History Architecture](./cloud_history_arch.png)
 
 ## Data Pipelines
 
